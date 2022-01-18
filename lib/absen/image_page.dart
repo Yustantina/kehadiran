@@ -116,7 +116,7 @@ class _ImagesPageState extends State<ImagesPage> {
                 ],
               ),
             ),
-            // Column(
+            /// Column(
             //   mainAxisAlignment: MainAxisAlignment.end,
             //   children: [
             //     Row(
